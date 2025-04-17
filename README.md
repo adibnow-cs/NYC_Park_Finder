@@ -60,7 +60,7 @@ Implemented PCA and other dimensionality reduction techniques for better model p
 
 Closely collaborated with the Backend and Frontend teams to ensure seamless integration and visualization of predictions.
 
-Wrote the NYC Park Finder Individual Report titled "Enhancing Urban Well-Being through Predictive Park Recommendations", detailing the problem space, my approach to ML and geospatial challenges, dataset decisions, model evaluations, and lessons learned.
+Wrote the [**NYC Park Finder Individual Report (PDF)**](./docs/NYC_ParkfFinder_Data_report.pdf) titled "Enhancing Urban Well-Being through Predictive Park Recommendations",detailing the problem space, my approach to ML and geospatial challenges, dataset decisions, model evaluations, and lessons learned.
 
 This project significantly improved my understanding of:
 
